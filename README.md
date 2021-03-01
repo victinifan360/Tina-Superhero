@@ -1,2 +1,1 @@
-# Tina-Superhero
-Repository about the game made in GDevelop, Tina Superhero, for a neighbor girl.
+An example of a basic platformer (Mario-like) game made with GDevelop.
