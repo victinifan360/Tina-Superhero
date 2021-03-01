@@ -1,6 +1,7 @@
 Introduction
 An example of a basic platformer (Mario-like) game made with GDevelop.
 This was made for a neighbor girl called Tina.
+
 Compilation
 1) Open this with GDevelop.
 2) Click on "Export (Web,iOS,Android)...
