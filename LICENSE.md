@@ -14,6 +14,7 @@ You can not:
 1) Use the game for commercial purposes without prior permission of me.
 2) Using the software for the purposes of alcoholic beverages, cigarettes, tobacco, etc.
 3) Putting insults in the game discriminatory, offensive, ethnic slurs, discriminatory, etc.
+4) Redistribute the source code, or the game, without a proprietary notice.
 
 By modifying the game you: Give Alejo Fernandez the right to decompile, modify, and make derivatives for any purpose.
 
