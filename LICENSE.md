@@ -18,4 +18,4 @@ You can not:
 
 By modifying the game you: Give Alejo Fernandez the right to decompile, modify, and make derivatives for any purpose.
 
-Clarifications: I have the right to change and revoke the license, and in any case, you can only use the game, for your personal enjoyment / purposes, non-commercial
+Clarifications: I have the right to change and revoke the license, and in any case, you can only use the game, for your personal enjoyment / purposes, non-commercial.
