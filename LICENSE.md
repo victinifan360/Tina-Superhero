@@ -1,4 +1,4 @@
-Welcome to TSH License, this is a document that shows all you can and you can't do with this software.
+Welcome to TSH License, this is a document that shows all you can and you can't do with this software and assets.
 
 Propietary notice: This work belongs to Alejo Fernandez, and he is the Copytight owner of this Work, this is a derivative work of "platformer" made in 'GDevelop' software.
 
