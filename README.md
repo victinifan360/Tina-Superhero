@@ -12,4 +12,4 @@ Compilation
 How do I modify it?
 Reffer to the documentation of GDevelop.
 
-License: TSH license.
+License: TSH license. .See more in LICENSE.md.
