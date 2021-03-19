@@ -2,7 +2,7 @@ Welcome to TSH License, this is a document that shows all you can and you can't 
 
 Propietary notice: This work belongs to Alejo Fernandez, and he is the Copytight owner of this Work, this is a derivative work of "platformer" made in 'GDevelop' software.
 
-Definitions: "I"  and "me" is Alejo Fernandez (the owner and propietary of the work) while "you", is the user who uses the code.
+Definitions: "I", "my"  and "me" is Alejo Fernandez (the owner and propietary of the work) while "you", is the user who uses the code.
 
 You are free to:
 
@@ -16,6 +16,7 @@ You can not:
 3) Using the software for the purposes of Nudity and/or pronography.
 4) Putting insults in the game discriminatory, offensive, ethnic slurs, discriminatory, etc.
 5) Redistribute the source code, or the game, without a proprietary notice.
+6) Use it for parodic purposes if you live within Argentina without my prior permission.
 
 By modifying the game you: Give Alejo Fernandez the right to decompile, modify, and make derivatives for any purpose.
 
