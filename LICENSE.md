@@ -1,5 +1,6 @@
 Copyright © Alejo Fernandez.
-Anyone is free to apply for this partially "free" software license without modifying it, except for putting their own name in "Definitions:", and "By modifying the game you:"
+Anyone is free to apply for this partially "free" software license without modifying it, except for putting their own name in "Definitions:", and "By modifying the game you:" sections.
+
 Welcome to TSH License, this is a document that shows all you can and you can't do with this software and assets.
 
 Propietary notice: This work belongs to Alejo Fernandez, and he is the Copytight owner of this Work, this is a derivative work of "platformer" made in 'GDevelop' software.
