@@ -1,5 +1,5 @@
 Copyright © Alejo Fernandez.
-Anyone is free to apply for this partially "free" software license without modifying it, except for putting their own name in "Propietary notice", "Definitions:", and "By modifying the game you:" sections.
+Anyone is free to apply for this partially "free" software license without modifying it, except for putting their own name in "Propietary notice" (also the definition of the game/software in this one), "Definitions:", and "By modifying the game you:" sections.
 
 Welcome to TSH License, this is a document that shows all you can and you can't do with this software and assets.
 
