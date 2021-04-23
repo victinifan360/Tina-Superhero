@@ -19,7 +19,7 @@ to modify the game for your personal and non-commercial use.
 And you can not:
 1) Use the game for commercial purposes without prior permission of me.
 2) Using the software for the purposes of alcoholic beverages, cigarettes, tobacco, etc.
-3) Using the software for the purposes of Nudity and/or pronography.
+3) Using the software for the purposes of Nudity and/or pornography.
 4) Putting insults in the game discriminatory, offensive, ethnic slurs, etc.
 5) Redistribute the source code, or the game, without a proprietary notice.
 6) Use it for parodic purposes if you live within Argentina without my prior permission.
